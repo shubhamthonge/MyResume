@@ -7,44 +7,27 @@ window.onscroll = function(){
         navbar.classList.remove("scrolled");
     }
 }
-document.getElementById("git1Button").addEventListener("click",function(){
-    window.open("https://github.com/vaibhavNikrad/MGNREGA", "_blank");
-})
-document.getElementById("deploy1Button").addEventListener("click",function(){
-    window.open("https://github.com/vaibhavNikrad/MGNREGA", "_blank");
-})
+ 
 
-document.getElementById("git2Button").addEventListener("click",function(){
-    window.open("https://github.com/shivam3singh/Online_Cab_Booking", "_blank");
-})
-document.getElementById("deploy2Button").addEventListener("click",function(){
-    window.open("https://drive.google.com/drive/folders/17xUPrnA3oFhJOL5r73cq6g1mjW1Yu8bd", "_blank");
-})
 
 document.getElementById("git3Button").addEventListener("click",function(){
-    window.open("https://github.com/Nameera-Khatoon/important-sweater-778", "_blank");
+    window.open("https://github.com/shubhamthonge/Student-Information-System", "_blank");
 })
-document.getElementById("deploy3Button").addEventListener("click",function(){
-    window.open("https://fanciful-entremet-410236.netlify.app/index.html", "_blank");
-})
+
 
 document.getElementById("git4Button").addEventListener("click",function(){
-    window.open("https://github.com/vaibhavNikrad/Unsplash-Clone", "_blank");
-})
-document.getElementById("deploy4Button").addEventListener("click",function(){
-    window.open("https://subtle-lily-b2d9dc.netlify.app/", "_blank");
+    window.open("https://github.com/shubhamthonge/Employee-Management-System", "_blank");
 })
 
-document.getElementById("instagram").addEventListener("click",function(){
-    window.open("https://www.instagram.com/vaibhav_nikrad96/")
-})
+
+
 
 document.getElementById("linkedin").addEventListener("click",function(){
-    window.open("https://www.linkedin.com/in/vaibhav-nikrad-837493239/");
+    window.open("https://in.linkedin.com/in/shubham-thonge");
 })
 
 document.getElementById("github").addEventListener("click",function(){
-    window.open("https://github.com/vaibhavNikrad");
+    window.open("https://github.com/shubhamthonge");
 })
 
 function SendMail(){
